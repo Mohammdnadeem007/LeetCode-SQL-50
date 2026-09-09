@@ -37,3 +37,11 @@ Each problem folder contains:
 ### 🌟 Connect with Me
 - **LeetCode:** [nadeemalam](https://leetcode.com/nadeemalam)
 - **GitHub:** [Mohammdnadeem007](https://github.com/Mohammdnadeem007)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mohammdnadeem007/LeetCode-SQL-50/tree/master/1757-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
